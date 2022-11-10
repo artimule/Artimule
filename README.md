@@ -15,7 +15,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/arti-mule/, Email : artimule1234@gmail.com**
 
 - ⚡ Fun fact **I spend my precious time into college studies !** 
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MuleArti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuleArti" height="30" width="40" /></a>  
