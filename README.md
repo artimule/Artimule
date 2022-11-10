@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NLP(Natural Language Processing), DSA, PowerBi, Data Science**
 
-- 🤝 I’m looking for help with **DSA and Data Science  **
+- 🤝 I’m looking for help with **DSA and Data Science**
 
 - 💬 Ask me about **Machine Learning , Python , NLP, SQL**
 
@@ -18,10 +18,8 @@
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MuleArti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuleArti" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/arti-mule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arti-mule" height="30" width="40" /></a>
-  
+<a href="https://twitter.com/MuleArti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuleArti" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/arti-mule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arti-mule" height="30" width="40" /></a> 
 <a href="https://www.kaggle.com/artimule" target="blank"><img align="center" src="https://raw.githubusercontent.c
   om/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="artimule" height="30" width="40" /></a>
   
