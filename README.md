@@ -16,9 +16,6 @@
 
 - ⚡ Fun fact **I spend my precious time into college studies !** 
 
-
-[![Arti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Artimule&theme=react-dark)](https://github.com/Artimule/github-readme-activity-graph)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MuleArti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuleArti" height="30" width="40" /></a>  
