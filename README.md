@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Artimule&show_icons=true&locale=en" alt="Artimule" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtiMule&" alt="ArtiMule" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtiMule&" alt="ArtiMule&theme=black-ice" /></p>
