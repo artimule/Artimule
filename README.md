@@ -19,8 +19,6 @@
 
 [![Arti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Artimule&theme=react-dark)](https://github.com/Artimule/github-readme-activity-graph)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=#100111">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MuleArti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuleArti" height="30" width="40" /></a>  
