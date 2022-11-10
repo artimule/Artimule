@@ -15,6 +15,9 @@
 - 📫 How to reach me **https://www.linkedin.com/in/arti-mule/, Email : artimule1234@gmail.com**
 
 - ⚡ Fun fact **I spend my precious time into college studies !** 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Artimule&show_icons=true&locale=en" alt="Artimule" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtiMule&" alt="Artimule" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +51,4 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Artimule&show_icons=true&locale=en" alt="Artimule" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtiMule&" alt="Artimule" /></p>
