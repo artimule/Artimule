@@ -51,7 +51,7 @@
 
 <h3 align="left">Learning Platform:</h3>
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![Coursera](https://img.shields.io/badge/coursera-gray?style=for-the-badge&logo=oursera&logoColor=blue)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![Coursera](https://img.shields.io/badge/coursera-blue?style=for-the-badge&logo=coursera&logoColor=blue)
  
 <h3 align="left">IDEs:</h3>
 
