@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **NLP(Natural Language Processing), DSA, PowerBi, Data Science**
+- 🌱 I’m currently learning **NLP(Natural Language Processing), DSA, Data Science**
 
 - 🤝 I’m looking for help with **DSA and Data Science**
 
