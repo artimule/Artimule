@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **DSA and Data Science**
 
-- 💬 Ask me about **Machine Learning , Python , NLP, SQL**
+- 💬 Ask me about **Machine Learning , Python , OOPs concepts, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arti-mule/, Email : artimule1234@gmail.com**
 
