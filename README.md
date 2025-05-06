@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **DSA, Data Science**
+- 🌱 I’m currently learning **DSA, Data Engineering**
 
-- 💬 Ask me about **Machine Learning , Python , OOPs concepts, SQL**
+- 💬 Ask me about **Python, OOPs concepts, SQL, AWS Cloud Practitioner, Linux, Data Engineer**
 
-- 📫 How to reach me **https://www.linkedin.com/in/arti-mule/, Email : artimule1234@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/arti-mule/, Email : artimule2303@gmail.com**
 
 - ⚡ Fun fact **I spend my precious time into college studies !** 
 <a><h2>Stats</h2></a>
