@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **DSA, Advanced Data Engineering, Cloud Architecture**
 
-- 💡 I’m passionate about **Machine Learning, Data Engineering, Cloud Computing, and Backend Development**
+- 💡 I’m passionate about **Machine Learning, Data Engineering, Databricks, Pyspark**
 
 - 💬 Ask me about **Python, OOPs, SQL, AWS Cloud, Linux, Data Engineering Tools**
 
