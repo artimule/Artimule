@@ -1,20 +1,46 @@
-<h1 align="center">Hi! 👋 I'm Arti Mule</h1>
-<h3 align="center">Machine Learning | Data Engineering | Python | SQL Enthusiast</h3>
+<h1 align="center">Hey 👋 I'm <span style="color:#4CAF50;">Arti Mule</span></h1>
+<h3 align="center">🚀 Machine Learning | Data Engineering | Python | SQL Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Artimule&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Artimule" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Artimule&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Artimule" />
 </p>
-I’m a tech nerd who loves turning messy data into crisp insights. Currently leveling up in
-Data Engineering + Machine Learning and building projects that actually solve real problems.
-I enjoy working on real-world datasets, exploring ML, and improving my data engineering skills
-day by day. Curious mind + consistent learning = my vibe.
 
-🔭 **Currently:** Associate Software Engineer at Tech Mahindra  
-🌱 **Learning:** DSA + Data Engineering  
-💡 **Interests:** Machine Learning, Data Engineering, Databricks, PySpark  
-💬 **Ask me about:** Python, OOPs, SQL, AWS, Linux, Data Engineering Tools  
-📫 **Contact:** artimule23@gmail.com | LinkedIn: https://www.linkedin.com/in/arti-mule/  
-⚡ **Fun Fact:** I love learning, exploring tech, and investing time in building real-world projects!
+---
+
+### 👩‍💻 About Me
+
+✨ I’m a tech nerd who loves turning messy data into crisp insights.  
+⚡ Currently leveling up in **Data Engineering + Machine Learning** and building projects that *actually solve real problems*.  
+🌱 Passionate about exploring ML models, cloud tools, and creating impactful data pipelines.  
+💡 Curious mind + consistent learning = **my everyday energy.**
+
+---
+
+### 🔧 What I'm Upto
+
+- 🔭 **Role:** Associate Software Engineer @ *Tech Mahindra*  
+- 🌱 **Learning:** DSA • Data Engineering • System Design  
+- 💬 **Ask Me About:** Python • OOPs • SQL • AWS • Linux • PySpark • Databricks  
+- 🤖 **Interests:** Machine Learning • ETL Pipelines • Big Data Tools  
+
+---
+
+### 📫 Connect With Me
+
+📩 **Email:** artimule23@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/arti-mule/
+
+---
+
+### ⚡ Fun Fact  
+I love learning, exploring new tech, and building real-world projects that make life easier!
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/20/9f/0e/209f0ee769278e2585026e144d87bbf0.gif" width="200">
+</p>
+
 
 
 <a><h2>📊 Stats</h2></a>
