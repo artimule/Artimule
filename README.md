@@ -4,19 +4,18 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Artimule&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Artimule" />
 </p>
-- I’m a tech nerd who loves turning messy data into crisp insights. Currently leveling up in Data Engineering + Machine Learning and building projects that actually solve real problems.I enjoy working on real-world projects, exploring ML, and strengthening my data engineering skills day by day. Curious mind + consistent learning = my vibe.
+I’m a tech nerd who loves turning messy data into crisp insights. Currently leveling up in
+Data Engineering + Machine Learning and building projects that actually solve real problems.
+I enjoy working on real-world datasets, exploring ML, and improving my data engineering skills
+day by day. Curious mind + consistent learning = my vibe.
 
-- 🔭 I’m currently working as an **Associate Software Engineer at Tech Mahindra**
-  
-- 🌱 I’m currently learning **DSA, Data Engineering**
+🔭 **Currently:** Associate Software Engineer at Tech Mahindra  
+🌱 **Learning:** DSA + Data Engineering  
+💡 **Interests:** Machine Learning, Data Engineering, Databricks, PySpark  
+💬 **Ask me about:** Python, OOPs, SQL, AWS, Linux, Data Engineering Tools  
+📫 **Contact:** artimule23@gmail.com | LinkedIn: https://www.linkedin.com/in/arti-mule/  
+⚡ **Fun Fact:** I love learning, exploring tech, and investing time in building real-world projects!
 
-- 💡 I’m passionate about **Machine Learning, Data Engineering, Databricks, Pyspark**
-
-- 💬 Ask me about **Python, OOPs, SQL, AWS Cloud, Linux, Data Engineering Tools**
-
-- 📫 Reach me at **artimule23@gmail.com** | **LinkedIn: https://www.linkedin.com/in/arti-mule/**
-
-- ⚡ Fun fact: **I love learning, exploring tech, and investing time in building real-world projects!**
 
 <a><h2>📊 Stats</h2></a>
 <div>
